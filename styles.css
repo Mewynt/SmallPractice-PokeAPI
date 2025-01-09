@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Lexend:wght@100..900&display=swap');
+
+.fondo{
+	background-image: url(img/fondo.jpg);
+	height: 600px;
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.efect-blur{
+	border-radius: 40px;
+	backdrop-filter: blur(4px);
+}
+h1{
+	font-family: 'Fredoka', cursive;
+}
+a{
+	font-family: 'Lexend', cursive;
+}
